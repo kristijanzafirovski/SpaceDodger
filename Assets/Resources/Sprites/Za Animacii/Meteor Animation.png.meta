@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: c569b58a5724949438af3c156d55b730
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3926840815721887418
+    second: Meteor Animation_0
+  - first:
+      213: -7125994397149500921
+    second: Meteor Animation_1
+  - first:
+      213: 7035910589867289344
+    second: Meteor Animation_2
+  - first:
+      213: 6926404091121929382
+    second: Meteor Animation_3
+  - first:
+      213: 5961005928425650213
+    second: Meteor Animation_4
+  - first:
+      213: 1020451014517535213
+    second: Meteor Animation_5
+  - first:
+      213: 5620711239105089446
+    second: Meteor Animation_6
+  - first:
+      213: -5803045418388920648
+    second: Meteor Animation_7
+  - first:
+      213: -4078925461164471025
+    second: Meteor Animation_8
+  - first:
+      213: 5702333276745740418
+    second: Meteor Animation_9
+  - first:
+      213: -7820237963453844190
+    second: Meteor Animation_10
+  - first:
+      213: -5603122379504004045
+    second: Meteor Animation_11
+  - first:
+      213: -5797296359707640910
+    second: Meteor Animation_12
+  - first:
+      213: -3633400227985813088
+    second: Meteor Animation_13
+  - first:
+      213: 1304696052463986263
+    second: Meteor Animation_14
+  - first:
+      213: 6355029573120471952
+    second: Meteor Animation_15
+  - first:
+      213: 5560028041770592090
+    second: Meteor Animation_16
+  - first:
+      213: -3661077652743379934
+    second: Meteor Animation_17
+  - first:
+      213: 1332369273015232965
+    second: Meteor Animation_18
+  - first:
+      213: -130263499612467346
+    second: Meteor Animation_19
+  - first:
+      213: 4256007107274874664
+    second: Meteor Animation_20
+  - first:
+      213: -1925005886948079750
+    second: Meteor Animation_21
+  - first:
+      213: -508272106328650140
+    second: Meteor Animation_22
+  - first:
+      213: -3332494637030890921
+    second: Meteor Animation_23
+  - first:
+      213: -5626159524561109960
+    second: Meteor Animation_24
+  - first:
+      213: -4464347702048634164
+    second: Meteor Animation_25
+  - first:
+      213: -2290253362978020546
+    second: Meteor Animation_26
+  - first:
+      213: 8213545514011975374
+    second: Meteor Animation_27
+  - first:
+      213: 1427363629511558139
+    second: Meteor Animation_28
+  - first:
+      213: 566733396686814967
+    second: Meteor Animation_29
+  - first:
+      213: 9153182036970974146
+    second: Meteor Animation_30
+  - first:
+      213: -7984425837751009455
+    second: Meteor Animation_31
+  - first:
+      213: 108278325017553307
+    second: Meteor Animation_32
+  - first:
+      213: 2556142006089575140
+    second: Meteor Animation_33
+  - first:
+      213: -4179963957267722617
+    second: Meteor Animation_34
+  - first:
+      213: -4091715075432175064
+    second: Meteor Animation_35
+  - first:
+      213: -9172832698599242694
+    second: Meteor Animation_36
+  - first:
+      213: 143627882951290594
+    second: Meteor Animation_37
+  - first:
+      213: -5871068845472690792
+    second: Meteor Animation_38
+  - first:
+      213: -3698683906891119851
+    second: Meteor Animation_39
+  - first:
+      213: 7203778588513315961
+    second: Meteor Animation_40
+  - first:
+      213: 5289612316651571072
+    second: Meteor Animation_41
+  - first:
+      213: 7102733241362683498
+    second: Meteor Animation_42
+  - first:
+      213: 7232643062344532074
+    second: Meteor Animation_43
+  - first:
+      213: -2298715407555044366
+    second: Meteor Animation_44
+  - first:
+      213: -841370980894290679
+    second: Meteor Animation_45
+  - first:
+      213: 8961797255269143318
+    second: Meteor Animation_46
+  - first:
+      213: -5752888272899950648
+    second: Meteor Animation_47
+  - first:
+      213: 616337302016410734
+    second: Meteor Animation_48
+  - first:
+      213: 9163225005511159004
+    second: Meteor Animation_49
+  - first:
+      213: 4718671560737009356
+    second: Meteor Animation_50
+  - first:
+      213: -2807642775651129398
+    second: Meteor Animation_51
+  - first:
+      213: 1338903417173193257
+    second: Meteor Animation_52
+  - first:
+      213: 3518303768896844925
+    second: Meteor Animation_53
+  - first:
+      213: 8868612781880900631
+    second: Meteor Animation_54
+  - first:
+      213: 2017799454915652318
+    second: Meteor Animation_55
+  - first:
+      213: -710970453420381384
+    second: Meteor Animation_56
+  - first:
+      213: 6967589009635506799
+    second: Meteor Animation_57
+  - first:
+      213: 2883123421708306270
+    second: Meteor Animation_58
+  - first:
+      213: 4741561781002088646
+    second: Meteor Animation_59
+  - first:
+      213: -8152194997059746006
+    second: Meteor Animation_60
+  - first:
+      213: -4323857207290409854
+    second: Meteor Animation_61
+  - first:
+      213: -8832944879239763442
+    second: Meteor Animation_62
+  - first:
+      213: 3012297763443455506
+    second: Meteor Animation_63
+  - first:
+      213: 664011209517372021
+    second: Meteor Animation_64
+  - first:
+      213: -8792571531703653462
+    second: Meteor Animation_65
+  - first:
+      213: 7242708643471268315
+    second: Meteor Animation_66
+  - first:
+      213: 6115782463079591634
+    second: Meteor Animation_67
+  - first:
+      213: 7405098729351633019
+    second: Meteor Animation_68
+  - first:
+      213: -7344945825959237657
+    second: Meteor Animation_69
+  - first:
+      213: -7133924525099559373
+    second: Meteor Animation_70
+  - first:
+      213: -4090373987656708939
+    second: Meteor Animation_71
+  - first:
+      213: -1861267554957210976
+    second: Meteor Animation_72
+  - first:
+      213: -9026893399022341190
+    second: Meteor Animation_73
+  - first:
+      213: -7373762693876535634
+    second: Meteor Animation_74
+  - first:
+      213: 1254734647583188362
+    second: Meteor Animation_75
+  - first:
+      213: 1256978659850851585
+    second: Meteor Animation_76
+  - first:
+      213: -8448013381751137023
+    second: Meteor Animation_77
+  - first:
+      213: -9182412688166643422
+    second: Meteor Animation_78
+  - first:
+      213: -6941236428206159119
+    second: Meteor Animation_79
+  - first:
+      213: -3964117297559620288
+    second: Meteor Animation_80
+  - first:
+      213: 5446984798111645361
+    second: Meteor Animation_81
+  - first:
+      213: -6390292726881452639
+    second: Meteor Animation_82
+  - first:
+      213: -4504461330509502962
+    second: Meteor Animation_83
+  - first:
+      213: 1659298972758517187
+    second: Meteor Animation_84
+  - first:
+      213: -1771387294226663277
+    second: Meteor Animation_85
+  - first:
+      213: -4339926358249365251
+    second: Meteor Animation_86
+  - first:
+      213: -3869843793629076818
+    second: Meteor Animation_87
+  - first:
+      213: 5655195137586635786
+    second: Meteor Animation_88
+  - first:
+      213: 8916276786474183063
+    second: Meteor Animation_89
+  - first:
+      213: -6891560916533823717
+    second: Meteor Animation_90
+  - first:
+      213: -1842039292598852714
+    second: Meteor Animation_91
+  - first:
+      213: 2837142869257701227
+    second: Meteor Animation_92
+  - first:
+      213: -8926450332554296417
+    second: Meteor Animation_93
+  - first:
+      213: 5102664836316379606
+    second: Meteor Animation_94
+  - first:
+      213: 749807377114102255
+    second: Meteor Animation_95
+  - first:
+      213: 6226070960292158804
+    second: Meteor Animation_96
+  - first:
+      213: 3707934416945114207
+    second: Meteor Animation_97
+  - first:
+      213: 7294694547748832757
+    second: Meteor Animation_98
+  - first:
+      213: 5230298563706299133
+    second: Meteor Animation_99
+  - first:
+      213: 234997963982997622
+    second: Meteor Animation_100
+  - first:
+      213: 1939682928010335462
+    second: Meteor Animation_101
+  - first:
+      213: 2645964026940637998
+    second: Meteor Animation_102
+  - first:
+      213: -208352457920135367
+    second: Meteor Animation_103
+  - first:
+      213: -4023420943329390108
+    second: Meteor Animation_104
+  - first:
+      213: 7059367402499128204
+    second: Meteor Animation_105
+  - first:
+      213: 5913105922709220089
+    second: Meteor Animation_106
+  - first:
+      213: 270844688530130907
+    second: Meteor Animation_107
+  - first:
+      213: 3958238411376176887
+    second: Meteor Animation_108
+  - first:
+      213: 6410003298196795557
+    second: Meteor Animation_109
+  - first:
+      213: 4554080797907320905
+    second: Meteor Animation_110
+  - first:
+      213: -6752250887897337828
+    second: Meteor Animation_111
+  - first:
+      213: -780152471280294154
+    second: Meteor Animation_112
+  - first:
+      213: 7193037583471250015
+    second: Meteor Animation_113
+  - first:
+      213: -7712689949070857059
+    second: Meteor Animation_114
+  - first:
+      213: -2985863021630695314
+    second: Meteor Animation_115
+  - first:
+      213: -2374746160459686554
+    second: Meteor Animation_116
+  - first:
+      213: -2779597183638897522
+    second: Meteor Animation_117
+  - first:
+      213: 2995975798329313770
+    second: Meteor Animation_118
+  - first:
+      213: 7971688836965055718
+    second: Meteor Animation_119
+  - first:
+      213: -6280063636589877507
+    second: Meteor Animation_120
+  - first:
+      213: -7712528722649580464
+    second: Meteor Animation_121
+  - first:
+      213: 5718347872407021780
+    second: Meteor Animation_122
+  - first:
+      213: 4744466895949995312
+    second: Meteor Animation_123
+  - first:
+      213: -5811758520912327699
+    second: Meteor Animation_124
+  - first:
+      213: -3232594294015195340
+    second: Meteor Animation_125
+  - first:
+      213: -4623491132749883195
+    second: Meteor Animation_126
+  - first:
+      213: 1724512918884571803
+    second: Meteor Animation_127
+  - first:
+      213: 586067926043972386
+    second: Meteor Animation_128
+  - first:
+      213: -4158033723035861187
+    second: Meteor Animation_129
+  - first:
+      213: 6671911226098123250
+    second: Meteor Animation_130
+  - first:
+      213: 851300442962277162
+    second: Meteor Animation_131
+  - first:
+      213: 1119268763336307808
+    second: Meteor Animation_132
+  - first:
+      213: -5007507664698838440
+    second: Meteor Animation_133
+  - first:
+      213: -6191670684083838502
+    second: Meteor Animation_134
+  - first:
+      213: -5226902866098962570
+    second: Meteor Animation_135
+  - first:
+      213: -7269245442871641445
+    second: Meteor Animation_136
+  - first:
+      213: -8069568706000536283
+    second: Meteor Animation_137
+  - first:
+      213: -8704984721215186384
+    second: Meteor Animation_138
+  - first:
+      213: 1449472525002069049
+    second: Meteor Animation_139
+  - first:
+      213: -309116233275312973
+    second: Meteor Animation_140
+  - first:
+      213: 4153721034279642602
+    second: Meteor Animation_141
+  - first:
+      213: -1474621408551180163
+    second: Meteor Animation_142
+  - first:
+      213: -4346552056949564925
+    second: Meteor Animation_143
+  - first:
+      213: -3301170738673636330
+    second: Meteor Animation_144
+  - first:
+      213: -1189268674497295674
+    second: Meteor Animation_145
+  - first:
+      213: -3809538123810759440
+    second: Meteor Animation_146
+  - first:
+      213: -484179638789266733
+    second: Meteor Animation_147
+  - first:
+      213: -6196046148856708370
+    second: Meteor Animation_148
+  - first:
+      213: -3539508407524602061
+    second: Meteor Animation_149
+  - first:
+      213: 5888561351730432447
+    second: Meteor Animation_150
+  - first:
+      213: 2363375381757480071
+    second: Meteor Animation_151
+  - first:
+      213: 3448308325501381513
+    second: Meteor Animation_152
+  - first:
+      213: -5922510662935588956
+    second: Meteor Animation_153
+  - first:
+      213: 213726426235022542
+    second: Meteor Animation_154
+  - first:
+      213: 6647188807719301227
+    second: Meteor Animation_155
+  - first:
+      213: -678947752971452431
+    second: Meteor Animation_156
+  - first:
+      213: -1210220070787978025
+    second: Meteor Animation_157
+  - first:
+      213: 6603607139866632589
+    second: Meteor Animation_158
+  - first:
+      213: -1628272822506001915
+    second: Meteor Animation_159
+  - first:
+      213: 3296822677894674276
+    second: Meteor Animation_160
+  - first:
+      213: 680585288838864032
+    second: Meteor Animation_161
+  - first:
+      213: 783646234857634331
+    second: Meteor Animation_162
+  - first:
+      213: -6809311148486584110
+    second: Meteor Animation_163
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Meteor Animation_0
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 99
+        width: 89
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6bb96aae0fe7630800000000000000
+      internalID: 3926840815721887418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Animation_1
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 100
+        width: 94
+        height: 479
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70aea76d9d16b1d90800000000000000
+      internalID: -7125994397149500921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Animation_2
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 100
+        width: 107
+        height: 469
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00be274576394a160800000000000000
+      internalID: 7035910589867289344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Animation_3
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 102
+        width: 100
+        height: 469
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac822eb2d78f1060800000000000000
+      internalID: 6926404091121929382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Animation_4
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 100
+        width: 112
+        height: 473
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528fec32f4fb9b250800000000000000
+      internalID: 5961005928425650213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor Animation_5
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 101
+        width: 100
+        height: 468
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de131078ace592e00800000000000000
+      internalID: 1020451014517535213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Meteor Animation_5: 1020451014517535213
+      Meteor Animation_4: 5961005928425650213
+      Meteor Animation_2: 7035910589867289344
+      Meteor Animation_1: -7125994397149500921
+      Meteor Animation_0: 3926840815721887418
+      Meteor Animation_3: 6926404091121929382
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

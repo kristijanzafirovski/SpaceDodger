@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/IronSource/DemoScene/IronSourceDemo.unity
+    guid: ccc0ac08126704384bdda74c26d99797
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: e3673ce0f3fbf5242b3bd4dae595df8f
+  - enabled: 1
+    path: Assets/Scenes/ingame.unity
+    guid: 1481e52f816869349a3b5b925ad98035
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 769615f71568a104a918f489ccf3bc48, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: c1ad89dd0efdc2145aef9b4e06312324, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: f4e4eb20fc73dea43a5a7c884d119d98, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 7a814658a41f8734b84a5aa16734ba2e, type: 2}
